@@ -1,9 +1,12 @@
 # Draw And Go
-It is a game that tries to match the top picture by putting the points made in 2.5D style in the right positions.
+A 3d game that aims to cross the cylinder in the middle by drawing shapes on the drawing area and spawning the player according to the position of these shapes.
 ## Watch Game Play
 
 
 
+https://github.com/softflied/DrawAndGo/assets/102998343/2111756f-b8aa-4d27-b543-f98726763364
 
-https://github.com/softflied/DrawAndGo/assets/102998343/59847ff6-81fe-421e-9dd5-7ea7bc4ebdd4
+
+
+
 
